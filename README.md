@@ -35,7 +35,13 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,bash,python,nodejs,react,nextjs,fastapi,postgres,redis,git,github,cloudflare"/>
+  
+- **Languages:** JavaScript, TypeScript, Go, Bash
+- **Web & APIs:** Express, FastAPI
+- **Data & Infrastructure:** PostgreSQL, Redis
+- **Cloud & DevOps:** Docker, Kubernetes, Helm, Terraform, Ansible, Argo CD, Airflow
+- **CI/CD & Version Control:** GitHub Actions, GitLab CI/CD, Drone CI/CD, Git
+- **Platforms & Systems:** Linux, Proxmox
 </p>
 
 ---
@@ -79,7 +85,8 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 ## 🎓Education
 - **BS, Computer Sciences - COMSATS (2022)**
 
----
+
+<!---
 ## 🎯 Current Focus
 
 - **AWS**
@@ -92,7 +99,7 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 - **Cloud Security**
 - **Open Source**
 
----
+--->
 
 ## 📬 Connect
 
