@@ -1,17 +1,16 @@
-# Hi, I'm Noor-Ul-Ain Butt 👋
 
 <div align="center">
+
+# Hi, I'm Noor-Ul-Ain Butt 👋
 
 ### Cloud Architect • DevOps Engineer • Platform Engineer • Open Source Builder
 
 Building cloud platforms, Kubernetes infrastructure, deployment automation, and developer tools.
 
-<!--- [Portfolio](https://yourwebsite.com) •
-[Medium](https://medium.com/@you)
---->
+<!--- [Portfolio](https://yourwebsite.com) • [Medium](https://medium.com/@you) --->
 
 [LinkedIn](https://linkedin.com/in/nob786) •
-[Email](nob786@gmail.com) •
+[Email](nob786@gmail.com)
 
 </div>
 
