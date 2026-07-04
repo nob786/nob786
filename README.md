@@ -84,12 +84,12 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 <tr>
 <td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nob786&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 </td>
 <td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nob786&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 
 </td>
 </tr>
