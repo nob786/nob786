@@ -1,5 +1,5 @@
 
-# <p align="center">👋 Hi, I'm Noor Ul Ain Butt</p>
+<!---# <p align="center">👋 Hi, I'm Noor Ul Ain Butt</p> --->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00B4DB,100:0083B0&text=Noor%20Ul%20Ain%20Butt&fontColor=ffffff&fontSize=48&desc=Platform%20Engineer%20•%20Cloud%20Architect%20•%20DevOps%20Engineer&descAlignY=60"/>
@@ -99,6 +99,7 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 ---
 
+<!---
 <p align="center">
 <i>"Automate everything. Observe everything. Keep it simple."</i>
 </p>
@@ -106,3 +107,4 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00B4DB,100:0083B0"/>
 </p>
+--->
