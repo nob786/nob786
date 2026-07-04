@@ -76,10 +76,9 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 </p>
 --->
 
----
 ## Education
 ---
-- BS, Computer Sciences - COMSATS (2022)
+- **BS, Computer Sciences - COMSATS (2022)**
 
 ---
 ## 🎯 Current Focus
