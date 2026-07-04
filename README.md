@@ -56,6 +56,25 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 ---
 
+## 💼 Career
+
+- **Sr DevOps Engineer** -- **[Venturenox](https://venturenox.com/)** 
+  - Building and maintaining cloud-native infrastructure.
+  - Managing Kubernetes platforms and CI/CD pipelines.
+  - Automating infrastructure with Terraform and Ansible.
+  - Implementing monitoring, observability, and GitOps practices.
+  - Implementing best security practices across all client and In-House projects.
+  - Managing Data & Full-Scale Applications migrations across cloud platforms
+
+- **Cloud and Data Science Instructor** — **[CodeLabsAcademy](https://codelabsacademy.com/)** -- **FreeLance** -
+  - Designing Course content for Self-Paced study.
+
+- **DevOps Consultant** -- **Amanah Mall By Amanah Group** -- **Part Time**
+  - Managed Linux servers and containerized applications.
+  - Automated deployments using Docker and Kubernetes.
+  - Supported cloud infrastructure and application operations.
+---
+
 ## 📊 GitHub Stats
 
 <!---
