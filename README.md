@@ -53,10 +53,12 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 ## 📊 GitHub Stats
 
+<!---
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nob786&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nob786&layout=compact&theme=tokyonight"/>
 </p>
+--->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=nob786&theme=tokyonight"/>
@@ -68,11 +70,12 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 ---
 
-## 🏆 GitHub Trophies
+<!---## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nob786&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+--->
 
 ---
 
