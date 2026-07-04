@@ -36,12 +36,15 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 <p align="center">
   
-- **Languages:** JavaScript, TypeScript, Go, Bash
-- **Web & APIs:** Express, FastAPI
-- **Data & Infrastructure:** PostgreSQL, Redis
-- **Cloud & DevOps:** Docker, Kubernetes, Helm, Terraform, Ansible, Argo CD, Airflow
-- **CI/CD & Version Control:** GitHub Actions, GitLab CI/CD, Drone CI/CD, Git
 - **Platforms & Systems:** Linux, Proxmox
+- **Languages:** JavaScript, TypeScript, Go, Bash
+- **AI Agents/LLM/Memeory** OpenClaw, Hermes, Claude, Cursor, Gbrain
+- **Cloud & DevOps:** Docker, Kubernetes, Helm, Terraform, Ansible, Argo CD, Airflow, Nginx, Emissary Gateway
+- **DevSecOps** Trivy, SonarQube, Hashicorp Vault,OWASP 
+- **Event Queues** Kafka, RabbitMQ
+- **Databases:** PostgreSQL, Redis, Clickhouse
+- **CI/CD & Version Control:** GitHub Actions, GitLab CI/CD, Drone CI/CD, Git
+- **Web & APIs:** Express, FastAPI
 </p>
 
 ---
