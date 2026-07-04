@@ -6,10 +6,12 @@
 
 Building cloud platforms, Kubernetes infrastructure, deployment automation, and developer tools.
 
-[Portfolio](https://yourwebsite.com) •
-[LinkedIn](https://linkedin.com/in/yourprofile) •
-[Email](mailto:you@example.com) •
+<!--- [Portfolio](https://yourwebsite.com) •
 [Medium](https://medium.com/@you)
+--->
+
+[LinkedIn](https://linkedin.com/in/nob786) •
+[Email](nob786@gmail.com) •
 
 </div>
 
@@ -17,12 +19,12 @@ Building cloud platforms, Kubernetes infrastructure, deployment automation, and 
 
 ## About Me
 
-I'm a DevOps and Cloud Engineer focused on building reliable infrastructure, scalable Kubernetes platforms, automation systems, and developer tooling.
+I'm a Sr DevOps Engineer focused on building reliable infrastructure, automation systems, and developer tooling.
 
-Over the last several years I've worked across cloud infrastructure, CI/CD, Kubernetes, observability, security, and platform engineering. I enjoy turning complex deployment workflows into simple developer experiences.
+Over the last several years, I've worked across cloud infrastructure, CI/CD, Kubernetes, observability, security, and platform engineering. I enjoy turning complex deployment workflows into simple developer experiences.
 
 My interests include:
-
+- Network and Security
 - Kubernetes Platform Engineering
 - Cloud Architecture
 - Infrastructure as Code
