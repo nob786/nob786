@@ -76,7 +76,7 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 </p>
 --->
 
-## ![University](https://shields.io🎓-blue) Education
+## 🎓Education
 - **BS, Computer Sciences - COMSATS (2022)**
 
 ---
