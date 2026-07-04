@@ -82,13 +82,15 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 ---
 ## 🎯 Current Focus
 
-- Platform Engineering
-- AI Infrastructure
-- Kubernetes
-- AWS
-- Terraform
-- Cloud Security
-- Open Source
+- **AWS**
+- **GCP**
+- **AZURE**
+- **Platform Engineering**
+- **AI Infrastructure**
+- **Kubernetes**
+- **Terraform**
+- **Cloud Security**
+- **Open Source**
 
 ---
 
