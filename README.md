@@ -44,10 +44,9 @@ I'm a **Senior DevOps Engineer** passionate about Platform Engineering, Kubernet
 
 | Project | Description |
 |---------|-------------|
-| **Levvy** | Cloud-native platform deployment and operations |
-| **Crewnetics** | Infrastructure and DevOps engineering |
-| **Testfuse** | CI/CD and cloud automation |
-| **SarahAI** | AI infrastructure and backend platform |
+| **Infermon** | A Unified Cloud-Agnostic Observability Platform |
+| **Junkiee** | A cloud resource clean-up plugin for CI/CD pipeline |
+| **Reporter** | A Unified Gateway for real-time event sync |
 
 ---
 
